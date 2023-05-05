@@ -9,5 +9,3 @@
 4. 给FOrmat On Save打上钩
 
 5. ![](C:\Users\17227\AppData\Roaming\marktext\images\2023-05-05-16-37-00-1683275805664.png)
-
-
